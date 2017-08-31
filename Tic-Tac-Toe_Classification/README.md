@@ -25,3 +25,8 @@ Performance:
 
 Error Histogram:
 ![](https://github.com/SukritGupta17/Neural-Network-Projects/blob/master/Tic-Tac-Toe_Classification/Results/error_hist.PNG)
+
+
+
+
+Note: For more details refer to the report
