@@ -21,3 +21,6 @@ Result:
 
 Final Gene Output: 
 ![Gene](https://github.com/SukritGupta17/Neural-Network-Projects/blob/master/Tic-Tac-Toe_Genetic-Algorithm/Results/final%20Result.JPG)
+
+
+_Note: For more details refer to the report_
